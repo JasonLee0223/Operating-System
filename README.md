@@ -5,13 +5,13 @@
 |:---|:---|:---|
 |01|Introduction to Operating Systems|운영체제란 무엇인가, 운영체제의 목적, 운영체제의 분류, 운영체제의 예, <br/>운영체제의 구조|
 |02|System Structure & Program Execution 1|컴퓨터 시스템 구조, Mode bit, Timer, Device Controller, <br/>입출력(I/O)의 수행, 동기식 입출력과 비동기식 입출력, <br/>시스템콜(System Call), 인터럽트(Interrupt)|
-||System Structure & Program Execution 2|컴퓨터 시스템 구조, 인터럽트(Interrupt), 동기식 입출력과 비동기식 입출력 <br/>시스템콜(SystemCall), DMA(Direct Memory Access), 서로 다른 입출력 명령어 <br/>저장장치 계층 구조, 프로그램의 실행(메모리 load), 커널 주소 공간의 내용 <br/>사용자 프로그램이 사용하는 함수, 프로그램의 실행|
-|03|Process 1|프로세스의 개념, 프로세스의 상태(Process State), 프로세스의 개념, 프로세스 상태도, Process Control Block(PCB), 문맥교환(Context Switch), 프로세스를 스케줄링하기 위한 큐, Ready Queue와 다양한 Device Queue, 스케줄러(Scheduler)|
+||System Structure & Program Execution 2|컴퓨터 시스템 구조, 인터럽트(Interrupt), <br/>동기식 입출력과 비동기식 입출력, 시스템콜(SystemCall), DMA(Direct Memory Access), <br/>서로 다른 입출력 명령어, 저장장치 계층 구조, 프로그램의 실행(메모리 load), <br/>커널 주소 공간의 내용, 사용자 프로그램이 사용하는 함수, 프로그램의 실행|
+|03|Process 1|프로세스의 개념, 프로세스의 상태(Process State), 프로세스의 개념, <br/>프로세스 상태도, Process Control Block(PCB), 문맥교환(Context Switch), <br/>프로세스를 스케줄링하기 위한 큐, Ready Queue와 다양한 Device Queue, <br/>스케줄러(Scheduler)|
 ||Process 2|동기식 입출력과 비동기식 입출력, 프로세스 스케줄링 큐의 모습, Thread|
 ||Process 3|Thread, Single and Multithreaded Processes, Benefits of Threads, Implemetation of Threads|
 |04|Process Management 1|프로세스 생성(Process Creation), 프로세스 종료(Process Termination)|
-||Process Manangement 2|프로세스 생성(Process Creation), 프로세스와 관련한 시스템콜, 프로세스 간 협력, Message Passing, <br/>Interprocess communication, CPU and I/O Bursts in Program Execution, <br/>CPU-burst Time의 분포, 프로세스의 특성 분류, CPU Scheduler & Dispatcher|
-|05|CPU Scheduling 1|CPU and I/O Bursts in Program Execution, CPU-burst Time의 분포, CPU Scheduler & Dispatcher, <br/>Scheduling Algorithms, Scheduling Criteria, FCFS(First- Come First-Served), <br/>SJF(Shortest-Job-First), 다음 CPU Burst Time의 예측, Exponential Averaging, Priority Scheduling, <br/>Round Robin(RR)|
+||Process Manangement 2|프로세스 생성(Process Creation), 프로세스와 관련한 시스템콜, <br/>프로세스 간 협력, Message Passing, Interprocess communication, <br/>CPU and I/O Bursts in Program Execution, <br/>CPU-burst Time의 분포, 프로세스의 특성 분류, CPU Scheduler & Dispatcher|
+|05|CPU Scheduling 1|CPU and I/O Bursts in Program Execution, CPU-burst Time의 분포, <br/>CPU Scheduler & Dispatcher, Scheduling Algorithms, Scheduling Criteria, <br/>FCFS(First- Come First-Served), SJF(Shortest-Job-First), 다음 CPU Burst Time의 예측, <br/>Exponential Averaging, Priority Scheduling, Round Robin(RR)|
 ||CPU Scheduling 2 <br/>Process Synchronization 1|CPU-burst Time의 분포, Schedulling Algorithms, Round Robin(RR), Multilevel Queue, <br/>Multilevel Feedback Queue, Multi-Processor Scheduling, Real-time Scheduling, <br/>Thread Scheduling, Algorithm Evaluation|
 |06|Process Synchronization 1|데이터의 접근, Race Condition, OS에서의 race condition(3/3), The Critical-Section Problem, <br/>OS에서 race condition(1/3), If you preempt CPU while in kernel mode…, <br/>Initial Attempts to Solve Problem, 프로그램적 해결법의 충족조건, Algorithm 1, Algorithm2, <br/>Algorithm3(Peterson's Algorithm), Synchronization Hardware, Semaphores|
 ||Process Synchronization 2|Semaphores, Critical Section of n Processes, Block / Wakeup Implementation, Implementation, <br/>Two Types of Semaphores, Deadlock and Starvation, Dining-Philosophers Problem|
