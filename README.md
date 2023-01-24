@@ -3,8 +3,8 @@
 
 |Section|Title|Subject|
 |:---|:---|:---|
-|01|Introduction to Operating Systems|운영체제란 무엇인가, 운영체제의 목적, 운영체제의 분류, 운영체제의 예, 운영체제의 구조|
-|02|System Structure & Program Execution 1|컴퓨터 시스템 구조, Mode bit, Timer, Device Controller, 입출력(I/O)의 수행 <br/>동기식 입출력과 비동기식 입출력, 시스템콜(System Call), 인터럽트(Interrupt)|
+|01|Introduction to Operating Systems|운영체제란 무엇인가, 운영체제의 목적, 운영체제의 분류, 운영체제의 예, <br/>운영체제의 구조|
+|02|System Structure & Program Execution 1|컴퓨터 시스템 구조, Mode bit, Timer, Device Controller, <br/>입출력(I/O)의 수행, 동기식 입출력과 비동기식 입출력, <br/>시스템콜(System Call), 인터럽트(Interrupt)|
 ||System Structure & Program Execution 2|컴퓨터 시스템 구조, 인터럽트(Interrupt), 동기식 입출력과 비동기식 입출력 <br/>시스템콜(SystemCall), DMA(Direct Memory Access), 서로 다른 입출력 명령어 <br/>저장장치 계층 구조, 프로그램의 실행(메모리 load), 커널 주소 공간의 내용 <br/>사용자 프로그램이 사용하는 함수, 프로그램의 실행|
 |03|Process 1|프로세스의 개념, 프로세스의 상태(Process State), 프로세스의 개념, 프로세스 상태도, Process Control Block(PCB), 문맥교환(Context Switch), 프로세스를 스케줄링하기 위한 큐, Ready Queue와 다양한 Device Queue, 스케줄러(Scheduler)|
 ||Process 2|동기식 입출력과 비동기식 입출력, 프로세스 스케줄링 큐의 모습, Thread|
