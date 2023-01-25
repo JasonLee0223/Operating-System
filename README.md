@@ -3,7 +3,7 @@
 
 |Section|Title|Subject|
 |:---|:---|:---|
-|01|Introduction to Operating Systems||
+|01|[Introduction to Operating Systems](IntroductionToOperatingSystems.md)|운영체제란 무엇인가? <br/>운영체제의 목적 <br/>운영체제의 분류 <br/>운영체제의 구조|
 |02|System Structure & Program Execution 1||
 ||System Structure & Program Execution 2||
 |03|Process 1||
