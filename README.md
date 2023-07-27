@@ -4,9 +4,9 @@
 |Section|Title|Subject|
 |:---|:---|:---|
 |01|[Introduction to Operating Systems](IntroductionToOperatingSystems.md)|운영체제란 무엇인가? <br/>운영체제의 목적, 분류, 구조|
-|02|[System Structure & Program Execution 1](SystemStructure_ProgramExecution.md)|Mode bit, Timer <br/>Device Controller <br/>입출력(I/O)의 수행 <br/>`Interrupt`<br/>`System call`|
-||[System Structure & Program Execution 2](SystemStructure_ProgramExecution2.md)|동기, 비동기식 입출력<br/>DMA|
-|03|[🔥 Process 1](Process1.md)|프로세스의 개념, 문맥, 상태 <br/>PCB, Context Switch, Scheduler|
+|02|[System Structure & Program Execution 1](Section2/SystemStructure_ProgramExecution.md)|Mode bit, Timer <br/>Device Controller <br/>입출력(I/O)의 수행 <br/>`Interrupt`<br/>`System call`|
+||[System Structure & Program Execution 2](Section2/SystemStructure_ProgramExecution2.md)|동기, 비동기식 입출력<br/>DMA|
+|03|[🔥 Process 1](Section3/Process1.md)|프로세스의 개념, 문맥, 상태 <br/>PCB, Context Switch, Scheduler|
 ||Process 2||
 ||Process 3||
 |04|Process Management 1||
