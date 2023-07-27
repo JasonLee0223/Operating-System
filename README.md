@@ -8,7 +8,7 @@
 ||[System Structure & Program Execution 2](Section2/SystemStructure_ProgramExecution2.md)|동기, 비동기식 입출력<br/>DMA|
 |03|[🔥 Process 1](Section3/Process1.md)|프로세스의 개념, 문맥, 상태 <br/>PCB, Context Switch, Scheduler|
 ||[🔥 Process 2](Section3/Process2.md)|Thread에 대한 정의|
-||Process 3||
+||[Process 3](Section3/Process3.md)|Thread의 장점|
 |04|Process Management 1||
 ||Process Manangement 2||
 |05|CPU Scheduling 1||
