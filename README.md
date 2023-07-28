@@ -9,7 +9,7 @@
 |03|[🔥 Process 1](Section3/Process1.md)|프로세스의 개념, 문맥, 상태 <br/>PCB, Context Switch, Scheduler|
 ||[🔥 Process 2](Section3/Process2.md)|Thread에 대한 정의|
 ||[Process 3](Section3/Process3.md)|Thread의 장점|
-|04|Process Management 1||
+|04|[Process Management 1](Section4/Process_Management.md)|프로세스의 생성 및 종료|
 ||Process Manangement 2||
 |05|CPU Scheduling 1||
 ||CPU Scheduling 2 <br/>Process Synchronization 1||
