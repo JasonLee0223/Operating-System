@@ -11,7 +11,7 @@
 ||[Process 3](Section3/Process3.md)|Thread의 장점|
 |04|[Process Management 1](Section4/Process_Management.md)|프로세스의 생성 및 종료|
 ||[🔥Process Manangement 2](Section4/Process_Management2.md)|프로세스의 시스템콜(fork, exec, wait, exit) <br/>프로세스의 협력(message)|
-|05|CPU Scheduling 1||
+|05|[CPU Scheduling 1](Section5/CPU_Scheduling.md)|FSFS, SJF, Round Robin(RR)|
 ||CPU Scheduling 2 <br/>Process Synchronization 1||
 |06|Process Synchronization 1||
 ||Process Synchronization 2||
