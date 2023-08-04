@@ -92,13 +92,13 @@ not output (for time-sharing environment)
 
 ## Scheduling Algorithms
 
-✅ FCFS (First-Come First-Served)
-✅ SJF (Shortest-Job-First)
-✅ SRTF (Shortest-Remaining-Time-First)
-✅ Priority Scheduling
-✅ RR (Round Robin)
-✅ Multilevel Queue
-✅ Multilevel Feedback Queue
+✅ FCFS (First-Come First-Served)   
+✅ SJF (Shortest-Job-First)   
+✅ SRTF (Shortest-Remaining-Time-First)   
+✅ Priority Scheduling   
+✅ RR (Round Robin)   
+✅ Multilevel Queue   
+✅ Multilevel Feedback Queue   
 
 ---
 
