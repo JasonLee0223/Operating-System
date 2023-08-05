@@ -13,8 +13,8 @@
 ||[🔥Process Manangement 2](Section4/Process_Management2.md)|프로세스의 시스템콜(fork, exec, wait, exit) <br/>프로세스의 협력(message)|
 |05|[CPU Scheduling 1](Section5/CPU_Scheduling.md)|FSFS, SJF, Round Robin(RR)|
 ||[CPU Scheduling 2](Section5/CPU_Scheduling2.md)|Multilevel Queue|
-|06|Process Synchronization 1||
-||Process Synchronization 2||
+|06|[Process Synchronization 1](Section6/Process_Synchronization.md)|Race Condition <br/> lock & unlcok SW적으로 해결하는 방법|
+||Process Synchronization 2|Semaphore|
 ||Process Synchronization 3||
 |07|Deadlocks 1|
 ||Deadlocks 2||
