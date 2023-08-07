@@ -16,8 +16,7 @@
 |06|[Process Synchronization 1](Section6/Process_Synchronization.md)|Race Condition <br/> lock & unlcok SW적으로 해결하는 방법|
 ||[Process Synchronization 2](Section6/Process_Synchronization2.md)|Semaphore <br/> Deadlock 소개|
 ||[Process Synchronization 3](Section6/Process_Synchronization3.md)|Bounded-Buffer Problem <br/> Readers and Writers Problem <br/> Dining-Philosophers Problem <br/> Semaphore, Monitor|
-|07|Deadlocks 1|
-||Deadlocks 2||
+|07|[Deadlocks](Section7/Deadlock.md)|Deadlock 발생의 4가지 조건 <br/> Deadlock의 처리 방법|
 |08|Memory Management 1||
 ||Memory Management 2||
 ||Memory Management 3||
