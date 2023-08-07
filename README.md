@@ -15,7 +15,7 @@
 ||[CPU Scheduling 2](Section5/CPU_Scheduling2.md)|Multilevel Queue|
 |06|[Process Synchronization 1](Section6/Process_Synchronization.md)|Race Condition <br/> lock & unlcok SW적으로 해결하는 방법|
 ||[Process Synchronization 2](Section6/Process_Synchronization2.md)|Semaphore <br/> Deadlock 소개|
-||Process Synchronization 3||
+||[Process Synchronization 3](Section6/Process_Synchronization3.md)|Bounded-Buffer Problem <br/> Readers and Writers Problem <br/> Dining-Philosophers Problem <br/> Semaphore, Monitor|
 |07|Deadlocks 1|
 ||Deadlocks 2||
 |08|Memory Management 1||
