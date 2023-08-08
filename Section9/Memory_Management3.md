@@ -131,3 +131,7 @@ segment number $s$ is legal if $s$ < STLR
 - **external fragmentation 발생**
 
 🔥 `segment`의 길이가 동일하지 않으므로 가변 분할 방식에서와 동일한 문제점들이 발생
+
+<img src = "https://user-images.githubusercontent.com/92699723/259010184-89aac3fe-33d5-42b0-8df2-75742d49f4c2.jpg" width=60%>
+
+<img src = "https://user-images.githubusercontent.com/92699723/259011634-d76947de-b5e6-43a3-a670-2f9d63d0752a.jpg" width=60%>

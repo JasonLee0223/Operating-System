@@ -20,7 +20,6 @@
 |08|[Memory Management 1](Section9/Memory_Management.md)|가상 vs 물리적 주소 <br/> 주소 바인딩 <br/> MMU <br/> Dynamic Loading, Dynamic Linking <br/> Overlays, Swapping|
 ||[Memory Management 2](Section9/Memory_Management2.md)|Paging 기법, Page Table <br/> Two-Level Page Table|
 ||[Memory Management 3](Section9/Memory_Management3.md)|Multilevel-Paging 기법 <br/> Inverted page table, Shared Page<br/> Segmentation 기법|
-||Memory Management 4||
 |09|Virtual Memory 1||
 ||Virtual Memory 2||
 |10|File Systems||
